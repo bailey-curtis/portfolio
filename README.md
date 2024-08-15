@@ -2,18 +2,6 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-
-- <b>PowerShell</b>
-
-- <b>C# (.NET Desktop Applications)</b>
-
-- <b>Python</b>
-
-
-
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
