@@ -1,20 +1,21 @@
 <h1>Hey, I'm Bailey! <br/><a href="https://www.linkedin.com/in/bailey-curtis-686802165/">Cybersecurity Graduate</a></h1>
 
+<br>
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 <p> Building a Cyberculture Framework </p>
 <p> Lucky Duck Casino Investigation w/ Linux Command Line </p>
-<br>
-<h2> Windows Administration and Hardening w/ PowerShell </h2>
-<h2> Cloud Security </h2>
-<h2> Building, Securing and Protecting a Web Application </h2>
-<h2> Testing Web Applications for Vulnerabilities </h2>
-<h2> MegaCorpOne - Penetration Test Report </h2>
-<h2> Rekall - Offesnive Security CTF </h2>
-<h2> Let's Go Splunking! </h2> 
-<h2> Digital Forensics Investigation w/ Autopsy </h2>
-<h2> Building a Sec Monitring Enivornment </h2>
-<h2> Configuring and Executing Gophish - bootCon Project </h2>
+<p> Windows Administration and Hardening w/ PowerShell </p>
+<p> Cloud Security </p>
+<p> Building, Securing and Protecting a Web Application </p>
+<p> Testing Web Applications for Vulnerabilities </p>
+<p> MegaCorpOne - Penetration Test Report </p>
+<p> Rekall - Offesnive Security CTF </p>
+<p> Let's Go Splunking! </p> 
+<p> Digital Forensics Investigation w/ Autopsy </p>
+<p> Building a Sec Monitring Enivornment </p>
+<p> Configuring and Executing Gophish - bootCon Project </h2>
 
 <!--
 
