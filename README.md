@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-<h2> Building a Cyberculture Framework </h2>
-<h2> Lucky Duck Casino Investigation w/ Linux Command Line </h2>
+<p> Building a Cyberculture Framework </p>
+<p> Lucky Duck Casino Investigation w/ Linux Command Line </p>
 <br>
 <h2> Windows Administration and Hardening w/ PowerShell </h2>
 <h2> Cloud Security </h2>
