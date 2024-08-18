@@ -1,7 +1,7 @@
 <h1>Hey, I'm Bailey! <br/><a href="https://www.linkedin.com/in/bailey-curtis-686802165/">Cybersecurity Graduate</a></h1>
 
 <br>
-<p> Hi, and welcome to digital portfolio! Below you will find an assortment of projects and challenges which I have undertaken during my 6 month bootcamp with UWA's cybersecurity course. </p>
+<p> Hi, and welcome to my digital portfolio! Below you will find an assortment of projects and challenges which I have undertaken during my 6 month bootcamp with UWA's cybersecurity course. </p>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
