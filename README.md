@@ -2,7 +2,18 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-[linkedin]:
+<h2> Building a Cyberculture Framwork </h2>
+<h2> Lucky Duck Casino Investigation w/ Linux Command Line </h2>
+<h2> Windows Administration and Hardening w/ PowerShell </h2>
+<h2> Cloud Security </h2>
+<h2> Building, Securing and Protecting a Web Application </h2>
+<h2> Testing Web Applications for Vulnerabilities </h2>
+<h2> MegaCorpOne - Penetration Test Report </h2>
+<h2> Rekall - Offesnive Security CTF </h2>
+<h2> Let's Go Splunking! </h2> 
+<h2> Digital Forensics Investigation w/ Autopsy </h2>
+<h2> Building a Sec Monitring Enivornment </h2>
+<h2> Configuring and Executing Gophish - bootCon Project </h2>
 
 <!--
 
