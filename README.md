@@ -3,7 +3,7 @@
 <br>
 <p> Hi, and welcome to my digital portfolio! Below you will find an assortment of projects and challenges which I have undertaken during my 6 month bootcamp with UWA's cybersecurity course. </p>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>Cybersecurity Projects:</h2>
 
 <p><a href="https://github.com/bailey-curtis/Building-A-Cyberculture-Framework/tree/main">Building A Cyberculture Framework</a></p>
 <p><a href="https://github.com/bailey-curtis/Lucky-Duck-Casino-Investigation/tree/main">Lucky Duck Casino Investigation w/ Linux Command Line </p>
