@@ -6,9 +6,9 @@
 <h2>Cybersecurity Projects:</h2>
 
 <p><a href="https://github.com/bailey-curtis/Building-A-Cyberculture-Framework/tree/main">Building A Cyberculture Framework</a></p>
-<p><a href="https://github.com/bailey-curtis/Lucky-Duck-Casino-Investigation/tree/main">Lucky Duck Casino Investigation w/ Linux Command Line </p>
-<p><a href="https://github.com/bailey-curtis/Windows-Administration-And-Hardening/tree/main">Windows Administration and Hardening w/ PowerShell </p>
-<p><a href="https://github.com/bailey-curtis/Cloud-Security/tree/main">Cloud Security </p>
+<p><a href="https://github.com/bailey-curtis/Lucky-Duck-Casino-Investigation/tree/main">Lucky Duck Casino Investigation with Linux Command Line </p>
+<p><a href="https://github.com/bailey-curtis/Windows-Administration-And-Hardening/tree/main">Windows Administration and Hardening with PowerShell/Activie Directory Domain Services/W </p>
+<p><a href="https://github.com/bailey-curtis/Cloud-Security/tree/main">Cloud Security with Azure Labs </p>
 <p> Building, Securing and Protecting a Web Application </p>
 <p> Testing Web Applications for Vulnerabilities </p>
 <p> MegaCorpOne - Penetration Test Report </p>
