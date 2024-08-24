@@ -1,14 +1,14 @@
 <h1>Hey, I'm Bailey! <br/><a href="https://www.linkedin.com/in/bailey-curtis-686802165/">Cybersecurity Graduate</a></h1>
 
 <br>
-<p> Hi, and welcome to my digital portfolio! Below you will find an assortment of projects and challenges which I have undertaken during my 6 month bootcamp with UWA's cybersecurity course. </p>
+<p> Hi, and welcome to my digital portfolio! Below you will find an assortment of projects and challenges which I have undertaken during my 6 month UWA cybersecurity bootcamp course. </p>
 
 <h2>Cybersecurity Projects:</h2>
 
 <p><a href="https://github.com/bailey-curtis/Building-A-Cyberculture-Framework/tree/main">Building A Cyberculture Framework</a></p>
-<p><a href="https://github.com/bailey-curtis/Lucky-Duck-Casino-Investigation/tree/main">Lucky Duck Casino Investigation with Linux Command Line </p>
-<p><a href="https://github.com/bailey-curtis/Windows-Administration-And-Hardening/tree/main">Windows Administration and Hardening with PowerShell/Activie Directory Domain Services/W </p>
-<p><a href="https://github.com/bailey-curtis/Cloud-Security/tree/main">Cloud Security with Azure Labs </p>
+<p><a href="https://github.com/bailey-curtis/Lucky-Duck-Casino-Investigation/tree/main">Lucky Duck Casino Investigation with <b>Linux Command Line</b> </p>
+<p><a href="https://github.com/bailey-curtis/Windows-Administration-And-Hardening/tree/main">Windows Administration and Hardening with <b>PowerShell</b> & <b>Active Directory Domain Services</b> </p>
+<p><a href="https://github.com/bailey-curtis/Cloud-Security/tree/main">Cloud Security with <b>Azure Labs</b> </p>
 <p> Building, Securing and Protecting a Web Application </p>
 <p> Testing Web Applications for Vulnerabilities </p>
 <p> MegaCorpOne - Penetration Test Report </p>
