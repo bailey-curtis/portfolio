@@ -10,7 +10,7 @@
 <p><a href="https://github.com/bailey-curtis/Windows-Administration-And-Hardening/tree/main">Windows Administration and Hardening with <b>PowerShell</b> & <b>Active Directory Domain Services</b> </p>
 <p><a href="https://github.com/bailey-curtis/Cloud-Security/tree/main">Cloud Security with <b>Azure Labs</b> </p>
 <p><a href="https://github.com/bailey-curtis/Building-Securing-Protecting-Web-Application/tree/main">Building, Securing and Protecting a Web Application  with <b>Azure Labs</b></p>
-<p> Testing Web Applications for Vulnerabilities </p>
+<p><a href="https://github.com/bailey-curtis/Testing-Web-Applications-For-Vulnerabilities/tree/main"> Testing Web Applications for Vulnerabilities with <b>Burpe Suite, BeEf</b> & <b>Linux Command Line</b> </p>
 <p> MegaCorpOne - Penetration Test Report </p>
 <p> Rekall - Offesnive Security CTF </p>
 <p> Let's Go Splunking! </p> 
