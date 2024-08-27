@@ -12,8 +12,8 @@
 <p><a href="https://github.com/bailey-curtis/Building-Securing-Protecting-Web-Application/tree/main">Building, Securing and Protecting a Web Application  with <b>Azure Labs</b></p>
 <p><a href="https://github.com/bailey-curtis/Testing-Web-Applications-For-Vulnerabilities/tree/main"> Testing Web Applications for Vulnerabilities with <b>Burpe Suite, BeEf</b> & <b>Linux Command Line</b> </p>
 <p><a href="https://github.com/bailey-curtis/Penetration-Test-Report/tree/main"> MegaCorpOne - Penetration Test Report with <b>Kali Linux, Shodan.io, Zenmap, MetaSploit, PowerShell, Kiwi</b> & <b>John The Ripper</b></p>
-<p><a href="https://github.com/bailey-curtis/Rekall-Offensive-Security-CTF/tree/main"> Rekall - Offensive Security CTF <b>Kali Linux, Nessus, Zenmap, MetaSploit, PowerShell, Kiwi</b> & <b>John The Ripper</b></p>
-<p> Digital Forensics Investigation w/ Autopsy </p>
+<p><a href="https://github.com/bailey-curtis/Rekall-Offensive-Security-CTF/tree/main"> Rekall - Offensive Security CTF with <b>Kali Linux, Nessus, Zenmap, MetaSploit, PowerShell, Kiwi</b> & <b>John The Ripper</b></p>
+<p><a href ="https://github.com/bailey-curtis/Digital-Forensics/tree/main"> Digital Forensics Investigation with <b>Autopsy</b> </p>
 <p> Building a Sec Monitoring Environment </p>
 <p> Configuring and Executing Gophish - bootCon Project </h2>
 
