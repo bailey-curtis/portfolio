@@ -13,9 +13,8 @@
 <p><a href="https://github.com/bailey-curtis/Testing-Web-Applications-For-Vulnerabilities/tree/main"> Testing Web Applications for Vulnerabilities with <b>Burpe Suite, BeEf</b> & <b>Linux Command Line</b> </p>
 <p><a href="https://github.com/bailey-curtis/Penetration-Test-Report/tree/main"> MegaCorpOne - Penetration Test Report with <b>Kali Linux, Shodan.io, Zenmap, MetaSploit, PowerShell, Kiwi</b> & <b>John The Ripper</b></p>
 <p><a href="https://github.com/bailey-curtis/Rekall-Offensive-Security-CTF/tree/main"> Rekall - Offensive Security CTF <b>Kali Linux, Nessus, Zenmap, MetaSploit, PowerShell, Kiwi</b> & <b>John The Ripper</b></p>
-<p> Let's Go Splunking! </p> 
 <p> Digital Forensics Investigation w/ Autopsy </p>
-<p> Building a Sec Monitring Enivornment </p>
+<p> Building a Sec Monitoring Environment </p>
 <p> Configuring and Executing Gophish - bootCon Project </h2>
 
 <!--
