@@ -14,7 +14,7 @@
 <p><a href="https://github.com/bailey-curtis/Penetration-Test-Report/tree/main"> MegaCorpOne - Penetration Test Report with <b>Kali Linux, Shodan.io, Zenmap, MetaSploit, PowerShell, Kiwi</b> & <b>John The Ripper</b></p>
 <p><a href="https://github.com/bailey-curtis/Rekall-Offensive-Security-CTF/tree/main"> Rekall - Offensive Security CTF with <b>Kali Linux, Nessus, Zenmap, MetaSploit, PowerShell, Kiwi</b> & <b>John The Ripper</b></p>
 <p><a href ="https://github.com/bailey-curtis/Digital-Forensics/tree/main"> Digital Forensics Investigation with <b>Autopsy</b> </p>
-<p> Building a Sec Monitoring Environment </p>
+<p><a href="https://github.com/bailey-curtis/Building-A-Sec-Monitoring-Environment/tree/main"> Building a Sec Monitoring Environment with <b>Splunk</b></p>
 <p> Configuring and Executing Gophish - bootCon Project </h2>
 
 <!--
