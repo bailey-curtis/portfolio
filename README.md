@@ -15,7 +15,7 @@
 <p><a href="https://github.com/bailey-curtis/Rekall-Offensive-Security-CTF/tree/main"> Rekall - Offensive Security CTF with <b>Kali Linux, Nessus, Zenmap, MetaSploit, PowerShell, Kiwi</b> & <b>John The Ripper</b></p>
 <p><a href ="https://github.com/bailey-curtis/Digital-Forensics/tree/main"> Digital Forensics Investigation with <b>Autopsy</b> </p>
 <p><a href="https://github.com/bailey-curtis/Building-A-Sec-Monitoring-Environment/tree/main"> Building a Sec Monitoring Environment with <b>Splunk</b></p>
-<p><a href="https://github.com/bailey-curtis/bootCon-Project/tree/main"> Configuring and Executing Gophish - bootCon Project </h2>
+<p><a href="https://github.com/bailey-curtis/bootCon-Project/tree/main"> Configuring and Executing Gophish - bootCon Project with <b>Command Line</b> & <b>GoPhish</b></b></h2>
 
 <!--
 
