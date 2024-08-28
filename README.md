@@ -1,9 +1,9 @@
 <h1>Hey, I'm Bailey! <br/><a href="https://www.linkedin.com/in/bailey-curtis-686802165/">Cybersecurity Graduate</a></h1>
 
-<p> Hi, and welcome to my digital portfolio! Below you will find an assortment of projects and challenges which I have undertaken during my 6 month UWA cybersecurity bootcamp course. </p>
-
+<p>Welcome to my digital portfolio! Here, you'll find a collection of projects and challenges completed during my 6-month UWA cybersecurity bootcamp. </p>
+<p>As I plan for the future, I am currently preparing for the CompTIA Security+ exam and aiming to further enhance my expertise with additional certifications. </p>
+  
 <h2>Class Challenges:</h2>
-
 <p><a href="https://github.com/bailey-curtis/Building-A-Cyberculture-Framework/tree/main">Building A Cyberculture Framework</a></p>
 <p><a href="https://github.com/bailey-curtis/Lucky-Duck-Casino-Investigation/tree/main">Lucky Duck Casino Investigation with <b>Linux Command Line</b> </p>
 <p><a href="https://github.com/bailey-curtis/Windows-Administration-And-Hardening/tree/main">Windows Administration and Hardening with <b>PowerShell</b> & <b>Active Directory Domain Services</b> </p>
