@@ -1,7 +1,7 @@
 <h1>Hey, I'm Bailey! <br/><a href="https://www.linkedin.com/in/bailey-curtis-686802165/">Cybersecurity Graduate</a></h1>
 
 <p>Welcome to my digital portfolio! Here, you'll find a collection of projects and challenges completed during my 6-month UWA cybersecurity bootcamp. </p>
-<p>As Recently, I completed and acquired CompTIA's Security+ certification and aim to further enhance my expertise with additional certifications. </p>
+<p>Recently, I completed and acquired CompTIA's Security+ certification and aim to further enhance my expertise with additional certifications. </p>
   
 <h2>Class Challenges:</h2>
 <p><a href="https://github.com/bailey-curtis/Building-A-Cyberculture-Framework/tree/main">Building A Cyberculture Framework</a></p>
